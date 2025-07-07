@@ -8,9 +8,9 @@ This project uses synthetic patient data to perform a financial analysis using P
 - Excel
 
 ## Dataset
-Source: Kaggle - https://www.kaggle.com/datasets/prasad22/healthcare-dataset
-Size: ~55,000 rows
-Fields: Age, Gender, Admission Type, Medical Condition, Billing Amount, Dates, etc.
+- Source: Kaggle - https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+- Size: ~55,000 rows
+- Fields: Age, Gender, Admission Type, Medical Condition, Billing Amount, Dates, etc.
 
 ## Data Cleaning
 - Removed incomplete hospital/insurance names
