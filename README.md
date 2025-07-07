@@ -43,4 +43,4 @@ This project uses synthetic patient data to perform a financial analysis using P
 - 'Healthcare_Analytics_Dashboard.pbix': Final Power BI dashboard
 
 ## Summary
-This project demonstrates my ability to clean up real-world data, design relational data models in SQL, and present key insight in Power BI. All of these skills are relevant to a financial/business analyst role.
+This project demonstrates my ability to clean up real-world data, design relational data models in SQL, and present key insight in Power BI. All of these skills are relevant to a financial/business data analyst role.
