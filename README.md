@@ -36,14 +36,11 @@ This project uses synthetic patient data to perform a financial analysis using P
 - Average Billing: $25,544.31
 
 ## Files Included
-- 'healthcare_dataset.csv'
-- 'healthcare_cleaned.csv'
-- 'healthcare_table.sql'
-- 'healthcare_queries.sql'
-- 'Healthcare_Analytics_Dashboard.pbix'
+- 'healthcare_dataset.csv': Raw dataset from Kaggle
+- 'healthcare_cleaned.csv': Cleaned and prepped for SQL and Power BI
+- 'healthcare_table.sql': SQL script to create the table schema
+- 'healthcare_queries.sql': SQL queries used for analysis and validation
+- 'Healthcare_Analytics_Dashboard.pbix': Final Power BI dashboard
 
 ## Summary
-This project demonstrates the ability to:
-- Clean and transform raw healthcare data
-- Structure a SQL-backed data model
-- Design a interactive financial dashboard using Power BI
+This project demonstrates my ability to clean up real-world data, design relational data models in SQL, and present key insight in Power BI. All of these skills are relevant to a financial/business analyst role.
